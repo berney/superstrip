@@ -58,6 +58,8 @@
 #include <errno.h>
 #include <elf.h>
 
+#include "skalibs/skalibs.h"
+#include "ulong.h"
 #include "sysdeps.h"
 #include "alloc.h"
 #include "allreadwrite.h"
